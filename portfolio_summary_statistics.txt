@@ -1,0 +1,29 @@
+PORTFOLIO SUMMARY STATISTICS
+==================================================
+
+Portfolio Size Metrics:
+  Total Borrowers: 2,000
+  Total Exposure: ₹30,997.24 Cr
+  Average Exposure: ₹15.50 Cr
+  Median Exposure: ₹15.56 Cr
+
+Credit Quality Metrics:
+  Investment Grade: 50.1%
+  Speculative Grade: 49.9%
+  Average Risk Score: 4.51
+  Risk Score Std Dev: 2.28
+
+Concentration Metrics:
+  HHI Index: 6.5
+  Top 10 Concentration: 1.0%
+  Top 20 Concentration: 1.9%
+  Top 50 Concentration: 4.8%
+
+Migration Dynamics:
+  Upgrade Rate: 43.5%
+  Downgrade Rate: 43.7%
+  Stability Rate: 12.9%
+
+Risk Parameters:
+  Average LGD: 0.50%
+  Average EAD Multiplier: 1.50x
